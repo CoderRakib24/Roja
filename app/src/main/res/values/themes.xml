@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Roja" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">#03A9F4</item>
+        <item name="android:statusBarColor">#0886BF</item>
+    </style>
+
+    <style name="Theme.Roja" parent="Base.Theme.Roja" />
+</resources>
